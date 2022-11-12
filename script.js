@@ -3,8 +3,7 @@
 // @author       A-Amen
 // @namespace    https://dr2.today/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Sets dark mode to dr2.today leaderboards
 // @match        https://dr2.today/*
 // @grant        none
 // ==/UserScript==
